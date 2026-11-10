@@ -1,23 +1,23 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE259,100:FFA751&height=220&section=header&text=Maitrey%20Bharambe&fontSize=56&fontColor=1A1A1A&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20%E2%80%A2%20Next.js%20%E2%80%A2%20Backend%20%E2%80%A2%20System%20Design&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF200,100:FFC400&height=220&section=header&text=Maitrey%20Bharambe&fontSize=56&fontColor=1A1A1A&fontAlignY=36&desc=AI%2FML%20%E2%80%A2%20Next.js%20%E2%80%A2%20Backend%20%E2%80%A2%20System%20Design&descAlignY=58&descSize=18" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://maitreybharambe.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFC300&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Building+intelligent+systems+%F0%9F%A4%96;LLMs+%E2%80%A2+RAG+%E2%80%A2+Agentic+AI;Next.js+frontends+%2B+scalable+backends+%E2%9A%A1;Designing+systems+that+scale+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFE600&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Building+intelligent+systems+%F0%9F%A4%96;LLMs+%E2%80%A2+RAG+%E2%80%A2+Agentic+AI;Next.js+frontends+%2B+scalable+backends+%E2%9A%A1;Designing+systems+that+scale+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://maitreybharambe.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-F59E0B?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://maitreybharambe.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-FFD600?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/maitrey-bharambe-677088331"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:maitrey.bharambe24@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://x.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maitrey-Bharambe&color=F59E0B&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Maitrey-Bharambe&color=FFD600&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 ---
@@ -104,14 +104,14 @@ class MaitreyBharambe:
       <h3>🤖 <a href="https://github.com/Maitrey-Bharambe/agentictcs">agentictcs</a></h3>
       Agentic AI system with autonomous multi-step reasoning.<br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/LLMs-D97706?style=flat-square" />
-      <img src="https://img.shields.io/badge/Agents-B45309?style=flat-square" />
+      <img src="https://img.shields.io/badge/LLMs-FFD600?style=flat-square" />
+      <img src="https://img.shields.io/badge/Agents-FFB300?style=flat-square" />
     </td>
     <td width="50%" valign="top">
       <h3>🏭 <a href="https://github.com/SohamG2696/FactoryMind_AI">FactoryMind_AI</a></h3>
       AI platform for smart manufacturing insights.<br/><br/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/AI-D97706?style=flat-square" />
+      <img src="https://img.shields.io/badge/AI-FFD600?style=flat-square" />
     </td>
   </tr>
   <tr>
@@ -119,7 +119,7 @@ class MaitreyBharambe:
       <h3>🏎️ <a href="https://github.com/Maitrey-Bharambe/F1_QL">F1_QL</a></h3>
       ML/RL project built around Formula 1.<br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/ML-D97706?style=flat-square" />
+      <img src="https://img.shields.io/badge/ML-FFD600?style=flat-square" />
     </td>
     <td width="50%" valign="top">
       <h3>🔔 <a href="https://github.com/Maitrey-Bharambe/Notifried">Notifried</a></h3>
@@ -158,5 +158,5 @@ class MaitreyBharambe:
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFA751,100:FFE259&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC400,100:FFF200&height=120&section=footer" width="100%" />
 </p>
