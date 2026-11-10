@@ -1,87 +1,163 @@
-<h1 align="center">Hey 👋, I'm Maitrey Bharambe</h1>
-<h3 align="center">AI/ML Engineer · Backend Developer · Building intelligent systems that scale</h3>
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:6A5AF9,100:A855F7&height=220&section=header&text=Maitrey%20Bharambe&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20%E2%80%A2%20Next.js%20%E2%80%A2%20Backend%20%E2%80%A2%20System%20Design&descAlignY=58&descSize=18" width="100%" />
+</p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI%2FML+%7C+LLMs+%7C+Agentic+Systems;Next.js+%2B+Scalable+Backends;System+Design+Enthusiast;Shipping+ideas+into+production+%F0%9F%9A%80" alt="Typing SVG" />
+  <a href="https://maitreybharambe.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Building+intelligent+systems+%F0%9F%A4%96;LLMs+%E2%80%A2+RAG+%E2%80%A2+Agentic+AI;Next.js+frontends+%2B+scalable+backends+%E2%9A%A1;Designing+systems+that+scale+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
----
-
-### 🧠 About Me
-
-- 🤖 I build **AI-powered products** — from ML models to LLM agents, RAG pipelines and intelligent automation.
-- ⚡ I ship full products with **Next.js** on the front and **robust, scalable backends** behind them.
-- 🏗️ Deep into **system design** — distributed systems, caching, queues, and designing for scale and reliability.
-- 🔭 Currently exploring **agentic AI, multi-agent workflows** and production-grade ML deployment.
-- 🏆 Love hackathons and turning research ideas into real, usable tools.
-- 🌐 Portfolio: **[maitreybharambe.vercel.app](https://maitreybharambe.vercel.app)**
-- 📫 Reach me at **maitrey.bharambe24@gmail.com**
-
----
-
-### 🛠️ Tech Stack
-
-**🤖 AI / ML**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="48" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="48" />
-</p>
-
-**🌐 Frontend & Full Stack**
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind" />
-</p>
-
-**⚙️ Backend & Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,redis,kafka" />
-</p>
-
-**☁️ DevOps & Infra**
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,git,githubactions" />
-</p>
-
----
-
-### 🏗️ What I Focus On
-
-| Area | What I work with |
-|------|------------------|
-| 🤖 **AI / ML** | Deep learning, NLP, LLMs, RAG, vector DBs, agentic workflows, reinforcement learning |
-| ⚡ **Next.js** | App Router, Server Components, API routes, SSR/ISR, performant UIs |
-| ⚙️ **Backend** | REST & GraphQL APIs, FastAPI, Node.js, auth, background jobs, microservices |
-| 🏛️ **System Design** | Scalability, load balancing, caching, message queues, DB sharding, observability |
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🤖 [**agentictcs**](https://github.com/Maitrey-Bharambe/agentictcs) | Agentic AI system with autonomous multi-step reasoning | Python · LLMs |
-| 🏎️ [**F1_QL**](https://github.com/Maitrey-Bharambe/F1_QL) | ML/RL project built around Formula 1 | Python |
-| 🏭 [**FactoryMind_AI**](https://github.com/SohamG2696/FactoryMind_AI) | AI platform for smart manufacturing insights | TypeScript · AI |
-| 🔔 [**Notifried**](https://github.com/Maitrey-Bharambe/Notifried) | Smart notification platform | JavaScript |
-| 🌱 [**plantcare**](https://github.com/Maitrey-Bharambe/plantcare) | Plant care assistant app | JavaScript |
-| 🔗 [**nexlinkk**](https://github.com/Maitrey-Bharambe/nexlinkk) | Full-stack link/connection platform | JavaScript |
-
----
-
-### 🤝 Let's Connect
-
 <p align="center">
-  <a href="mailto:maitrey.bharambe24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/maitrey-bharambe-677088331"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://maitreybharambe.vercel.app"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://maitreybharambe.vercel.app"><img src="https://img.shields.io/badge/Portfolio-maitreybharambe.vercel.app-6A5AF9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/maitrey-bharambe-677088331"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:maitrey.bharambe24@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maitrey-Bharambe&color=36BCF7&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Maitrey-Bharambe&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
-<p align="center"><i>“Building systems that think, and backends that scale.”</i></p>
+---
+
+## 🧑‍💻 About Me
+
+```python
+class MaitreyBharambe:
+    def __init__(self):
+        self.role      = "AI/ML Engineer & Backend Developer"
+        self.focus     = ["LLMs & Agentic AI", "Next.js", "Scalable Backends", "System Design"]
+        self.learning  = ["Multi-agent systems", "MLOps", "Distributed systems"]
+        self.loves     = ["Hackathons", "Clean architecture", "Shipping fast"]
+        self.portfolio = "maitreybharambe.vercel.app"
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something intelligent 🚀")
+```
+
+---
+
+## ⚡ What I Do
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI / Machine Learning</h3>
+      Deep learning, NLP and LLM apps: RAG pipelines, vector search, fine-tuning and <b>autonomous agents</b> that reason and act.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Next.js Full Stack</h3>
+      Fast, polished products with the App Router, Server Components, SSR/ISR and clean dark UIs.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ Backend Engineering</h3>
+      REST and GraphQL APIs with FastAPI and Node.js, auth, background jobs, queues and microservices.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏛️ System Design</h3>
+      Designing for scale: load balancing, caching, sharding, event-driven architecture and observability.
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<p align="center"><b>🤖 AI / ML</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+</p>
+
+<p align="center"><b>🌐 Frontend & Full Stack</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind&theme=dark" />
+</p>
+
+<p align="center"><b>⚙️ Backend & Databases</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,redis,kafka&theme=dark" />
+</p>
+
+<p align="center"><b>☁️ DevOps & Cloud</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,git,githubactions&theme=dark" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/Maitrey-Bharambe/agentictcs">agentictcs</a></h3>
+      Agentic AI system with autonomous multi-step reasoning.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/LLMs-A855F7?style=flat-square" />
+      <img src="https://img.shields.io/badge/Agents-6A5AF9?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏭 <a href="https://github.com/SohamG2696/FactoryMind_AI">FactoryMind_AI</a></h3>
+      AI platform for smart manufacturing insights.<br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/AI-A855F7?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏎️ <a href="https://github.com/Maitrey-Bharambe/F1_QL">F1_QL</a></h3>
+      ML/RL project built around Formula 1.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/ML-A855F7?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔔 <a href="https://github.com/Maitrey-Bharambe/Notifried">Notifried</a></h3>
+      Smart notification platform.<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔗 <a href="https://github.com/Maitrey-Bharambe/nexlinkk">nexlinkk</a></h3>
+      Full-stack link/connection platform.<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌱 <a href="https://github.com/Maitrey-Bharambe/plantcare">plantcare</a></h3>
+      Plant care assistant app.<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔭 Right Now
+
+- 🧠 Building **agentic AI** workflows with multi-agent orchestration
+- ⚡ Shipping **Next.js** products backed by production-ready APIs
+- 🏗️ Studying **distributed systems** and large-scale system design
+- 🏆 Always up for a **hackathon**
+
+---
+
+<p align="center">
+  <i>“Building systems that think, and backends that scale.”</i>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:6A5AF9,100:36BCF7&height=120&section=footer" width="100%" />
+</p>
