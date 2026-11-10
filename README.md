@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF200,100:FFC400&height=220&section=header&text=Maitrey%20Bharambe&fontSize=56&fontColor=1A1A1A&fontAlignY=36&desc=AI%2FML%20%E2%80%A2%20Next.js%20%E2%80%A2%20Backend%20%E2%80%A2%20System%20Design&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:FFF200,100:FFC400&height=220&section=header&text=Maitrey%20Bharambe&fontSize=56&fontColor=1A1A1A&fontAlignY=36&desc=AI%2FML%20%E2%80%A2%20Next.js%20%E2%80%A2%20Backend%20%E2%80%A2%20System%20Design&descAlignY=58&descSize=18" width="100%" />
 </p>
 
 <p align="center">
@@ -158,5 +158,5 @@ class MaitreyBharambe:
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC400,100:FFF200&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:FFC400,100:FFF200&height=120&section=footer" width="100%" />
 </p>
